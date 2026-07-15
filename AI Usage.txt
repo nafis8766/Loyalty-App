@@ -1,0 +1,12 @@
+This project was primarily developed independently. I used my own understanding of Flutter, UI design, and application logic to implement the main features of the salon loyalty system.
+
+AI tools (such as ChatGPT, Gemini) were used in a limited and supportive manner. Specifically, AI was used to:
+
+* Clarify certain programming concepts and logic (e.g., state handling, data flow)
+* Assist in debugging errors and resolving syntax issues
+* Provide suggestions for improving UI structure and feature organization
+* Help in generating example code snippets, which were then modified and integrated manually
+
+All major design decisions, feature implementations, and final code integration were done by me. I ensured that I understood all AI-assisted suggestions before applying them to the project.
+
+Therefore, AI was used only as a learning and support tool, not as a replacement for my own work.
